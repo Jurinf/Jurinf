@@ -8,8 +8,9 @@ I have been a computer enthusiast since my childhood. At around 15, I discovered
 
 * 🌍  I'm based in Germany
 * 🔞  I'm 18 years old
-* 🧠  I'm learning all the skills below
 * 👨‍💻  I'm starting with leetcode
+* 💻  I'm starting with linux 
+* 🧠  I'm learning all the skills below
 
 ### Skills
 
