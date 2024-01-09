@@ -1,8 +1,5 @@
-Hi 👋 My name is Jurin
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&center=true&vCenter=true&multiline=true&random=false&width=600&height=100&lines=Hello%2C+fellow+programmers!;+My+name+is+Jurin+and+I+am+a+student+in;computer+science+major.)](https://git.io/typing-svg)
 ======================
-
-Student specializing in IT
---------------------------
 
 I have been a computer enthusiast since my childhood. At around 15, I discovered coding. I lost sight of it for a while, but through my current educational path, I rediscovered it, and it's incredibly enjoyable. That's why I am very interested in sharing my projects here and learning from others.
 
